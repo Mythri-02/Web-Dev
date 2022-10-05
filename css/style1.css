@@ -77,6 +77,17 @@ body {
     font-weight: 400;
 }
 
+#home-tiles .item-text3 {
+    background: #5e5e5e;
+    padding: 10px;
+}
+
+#home-tiles .item-text3 p {
+    font-size: 1.3em;
+    font-weight: 400;
+}
+
+
 /* END OF HOME PAGE */
 /********** Large devices only **********/
 @media (min-width: 1200px) {
